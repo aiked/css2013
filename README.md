@@ -57,7 +57,7 @@ In this section we will put links of various documents and tools.
   * A list of [IDA tutorials] (https://www.hex-rays.com/products/ida/support/tutorials/) provided by Hex-Rays.
   * Another [tutorial](securityxploded.com/reversing-basics-ida-pro.php) for Reverse Engineering with IDA
   * [RE for Beginners] (http://yurichev.com/writings/RE_for_beginners-en.pdf). 
-  
+  * Kris Kendall's [Practical Malware Analysis](http://www.blackhat.com/presentations/bh-dc-07/Kendall_McMillan/Paper/bh-dc-07-Kendall_McMillan-WP.pdf)
 ### Others ###
 
 Let's insert here other useful stuff. Useful links from older CTFs etc
