@@ -77,8 +77,8 @@ Let's insert here other useful stuff. Useful links from older CTFs etc
  * [test your skills via puzzles!] (http://forensicscontest.com/2009/10/10/puzzle-2-ann-skips-bail)
 Reverse Engineering
 
-	* [jd-gui] (http://code.google.com/p/denzfarid/downloads/detail?name=jd-gui-0.3.3.linux.i686.tar.gz&can=2&q=) 
+ * [jd-gui] (http://code.google.com/p/denzfarid/downloads/detail?name=jd-gui-0.3.3.linux.i686.tar.gz&can=2&q=) 
 	java decompiler you should sudo apt-get install ia32-libs-gtk
 
-	* [dex2jar] (http://code.google.com/p/dex2jar/downloads/detail?name=dex2jar-0.0.9.15.zip&can=2&q=) 
+ * [dex2jar] (http://code.google.com/p/dex2jar/downloads/detail?name=dex2jar-0.0.9.15.zip&can=2&q=) 
 	converts dex or apk files to jar (for android apps)
