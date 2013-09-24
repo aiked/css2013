@@ -1,4 +1,6 @@
-# Readme #
+# CSS 2013 #
+
+[Homepage] (http://www.iwsec.org/css/2013/english/index.html)
 
 ## Intro ##
 
@@ -58,6 +60,7 @@ In this section we will put links of various documents and tools.
   * Another [tutorial](securityxploded.com/reversing-basics-ida-pro.php) for Reverse Engineering with IDA
   * [RE for Beginners] (http://yurichev.com/writings/RE_for_beginners-en.pdf). 
   * Kris Kendall's [Practical Malware Analysis](http://www.blackhat.com/presentations/bh-dc-07/Kendall_McMillan/Paper/bh-dc-07-Kendall_McMillan-WP.pdf)
+
 ### Others ###
 
 Let's insert here other useful stuff. Useful links from older CTFs etc
@@ -69,4 +72,5 @@ Let's insert here other useful stuff. Useful links from older CTFs etc
    Exercise material, tools and hanbook are bundled in a VM. Donwload it and give it a try.
  * Some YouTube videos about traffic analysis ([1](https://www.youtube.com/watch?v=U0QABcTD-xc), [2](https://www.youtube.com/watch?v=UXAHvwouk6Q))
 
-
+ * [HOIC vs LOIC] (http://blog.spiderlabs.com/2012/01/hoic-ddos-analysis-and-detection.html)
+ * [test your skills via puzzles!] (http://forensicscontest.com/2009/10/10/puzzle-2-ann-skips-bail)
