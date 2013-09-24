@@ -31,6 +31,7 @@ In this section we will put links of various documents and tools.
   * Cuckoo Sandbox
   * objdump
   * IDA
+  * libemu
   * Custom scripts...
 
 #### Stats Visualizer ####
