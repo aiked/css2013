@@ -32,6 +32,8 @@ In this section we will put links of various documents and tools.
   * objdump
   * IDA
   * libemu
+  * JD-GUI
+  * dex2jar
   * Custom scripts...
 
 #### Stats Visualizer ####
@@ -76,7 +78,9 @@ Let's insert here other useful stuff. Useful links from older CTFs etc
  * [HOIC vs LOIC] (http://blog.spiderlabs.com/2012/01/hoic-ddos-analysis-and-detection.html)
  * [test your skills via puzzles!] (http://forensicscontest.com/2009/10/10/puzzle-2-ann-skips-bail)
 
-Reverse Engineering
+Reverse Engineering 
+
+>Notice: most tools i can find are meant for windows...
 
  * [jd-gui] (http://code.google.com/p/denzfarid/downloads/detail?name=jd-gui-0.3.3.linux.i686.tar.gz&can=2&q=) 
 	java decompiler you should sudo apt-get install ia32-libs-gtk
