@@ -34,6 +34,8 @@ In this section we will put links of various documents and tools.
   * libemu
   * JD-GUI
   * dex2jar
+  * flasm
+  * swftools
   * Custom scripts...
 
 #### Stats Visualizer ####
@@ -87,3 +89,7 @@ Reverse Engineering
 
  * [dex2jar] (http://code.google.com/p/dex2jar/downloads/detail?name=dex2jar-0.0.9.15.zip&can=2&q=) 
 	converts dex or apk files to jar (for android apps)
+
+ * [flasm] (http://www.nowrap.de/flasm.html) swf decompiler 
+
+ * [swftools] (http://www.swftools.org/about.html) swf decompiler
