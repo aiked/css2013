@@ -9,8 +9,8 @@ In this repo we will collect the tools needed bla bla bla...
 
 ## Current Progress so far ##
 
- - [ ] Collect some tools and install them.
- - [ ] Gather a couple of useful documents.
+ - [x] Collect some tools and install them.
+ - [x] Gather a couple of useful documents.
  - [ ] Check older CTFs and stuff, to get an idea of what this will all about.
  - [ ] Track our progress.
 
@@ -65,6 +65,7 @@ In this section we will put links of various documents and tools.
   * Another [tutorial](securityxploded.com/reversing-basics-ida-pro.php) for Reverse Engineering with IDA
   * [RE for Beginners] (http://yurichev.com/writings/RE_for_beginners-en.pdf). 
   * Kris Kendall's [Practical Malware Analysis](http://www.blackhat.com/presentations/bh-dc-07/Kendall_McMillan/Paper/bh-dc-07-Kendall_McMillan-WP.pdf)
+  * A [list] (http://computer-forensics.sans.org/blog/2011/06/09/android-mobile-malware-analysis-article) of articles for Android malware analysis
 
 ### Others ###
 
