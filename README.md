@@ -36,6 +36,7 @@ In this section we will put links of various documents and tools.
   * dex2jar
   * flasm
   * swftools
+  * Yara
   * Custom scripts...
 
 #### Stats Visualizer ####
@@ -81,6 +82,7 @@ Let's insert here other useful stuff. Useful links from older CTFs etc
  * [HOIC vs LOIC] (http://blog.spiderlabs.com/2012/01/hoic-ddos-analysis-and-detection.html)
  * [test your skills via puzzles!] (http://forensicscontest.com/2009/10/10/puzzle-2-ann-skips-bail)
  * [Shellcode analysis](http://www.malwaretracker.com/shellcode.php) tool from malwaretracker.com
+ * [Malware Cookbook](https://code.google.com/p/malwarecookbook).
 
 Reverse Engineering 
 
