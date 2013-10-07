@@ -47,9 +47,10 @@ In this section we will put links of various documents and tools.
 
   * Androguard
   * DroidBox
-  * baksmali
+  * baksmali/smali
   * apktool
   * TaintDroid
+  * DroidScope
 
 #### Penetration testing/Information gathering ####
 
