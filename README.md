@@ -68,6 +68,7 @@ In this section we will put links of various documents and tools.
   * [RE for Beginners] (http://yurichev.com/writings/RE_for_beginners-en.pdf). 
   * Kris Kendall's [Practical Malware Analysis](http://www.blackhat.com/presentations/bh-dc-07/Kendall_McMillan/Paper/bh-dc-07-Kendall_McMillan-WP.pdf)
   * A [list] (http://computer-forensics.sans.org/blog/2011/06/09/android-mobile-malware-analysis-article) of articles for Android malware analysis
+  * Beginner's guide to [Smali coding](http://forum.xda-developers.com/showthread.php?t=2193735)
 
 ### Others ###
 
