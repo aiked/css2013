@@ -69,6 +69,7 @@ In this section we will put links of various documents and tools.
   * Kris Kendall's [Practical Malware Analysis](http://www.blackhat.com/presentations/bh-dc-07/Kendall_McMillan/Paper/bh-dc-07-Kendall_McMillan-WP.pdf)
   * A [list] (http://computer-forensics.sans.org/blog/2011/06/09/android-mobile-malware-analysis-article) of articles for Android malware analysis
   * Beginner's guide to [Smali coding](http://forum.xda-developers.com/showthread.php?t=2193735)
+  * Reference guide to [Davlik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html) and examples how typical [code structures](http://androidcracking.blogspot.gr/2011/01/example-structuressmali.html) are represented in Smali code. (**MUST** for Android RE)
 
 ### Others ###
 
