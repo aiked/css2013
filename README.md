@@ -70,6 +70,7 @@ In this section we will put links of various documents and tools.
   * A [list] (http://computer-forensics.sans.org/blog/2011/06/09/android-mobile-malware-analysis-article) of articles for Android malware analysis
   * Beginner's guide to [Smali coding](http://forum.xda-developers.com/showthread.php?t=2193735)
   * Reference guide to [Davlik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html) and examples how typical [code structures](http://androidcracking.blogspot.gr/2011/01/example-structuressmali.html) are represented in Smali code. (**MUST** for Android RE)
+  * [Guide](http://blog.apkudo.com/2012/10/16/reverse-engineering-android-disassembling-hello-world/) for dissasembling a Hello World application in Smali
 
 ### Others ###
 
