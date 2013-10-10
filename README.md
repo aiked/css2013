@@ -37,7 +37,8 @@ In this section we will put links of various documents and tools.
   * flasm
   * swftools
   * Yara
-  * Custom scripts...
+  * Custom scripts... (MDScan)
+  * [OfficeMalScanner](http://www.aldeid.com/wiki/OfficeMalScanner) (for Office documents. Run it under wine)
 
 #### Stats Visualizer ####
 
